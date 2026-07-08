@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-// Helper function for factorial (no recursion for the sake of memory)
+// Helper function for factorial (iterative approach for simplicity)
 long double factorial(int num)
 {
 
